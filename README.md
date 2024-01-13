@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning ArKit and CoreML
 - 👯 I’m looking For new Opportunities in Ios Development 
 - 📫 How to reach me :- 
-- 📩 Hussamaldindafalla@gmail.com
+- 📩 Hussamllaldin@gmail.com
 - 📱 +249 907 932 795 
